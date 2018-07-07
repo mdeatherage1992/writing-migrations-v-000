@@ -6,3 +6,5 @@ def change
    t.string :birthdate
  end
 end
+
+end
